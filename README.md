@@ -6,7 +6,7 @@
 * Jeg har lyst til at når scriptet blir lastet ned så kjører den seg selv og
 ## Hva skjer når scriptet kjøres?
 1. Når scriptet kjøres skal den lage en mappe med en kopi av scriptet inni seg og så kjøre kopien
-2. Når de scriptet kjøres skal de også komme en popup på brukerens GUI der det står hvor mange directories som har copiert seg selv
+2. Når de scriptet kjøres skal det også komme en popup på brukerens GUI der det står hvor mange directories som har copiert seg selv
 ### Bonus 
 1. Få scriptet til å finne ut hvilken OS den er på og før den runner den første loopen (Hvorfor? for at navnet på alle de copierte directoriene har samme navn som en av de viktigste directoiene på OSens system. Sånn at hvis brukeren prøver å slette alle kopierte mapper med navnent til "Worm shell bash Script/ Viruset" så sletter de også en av de viktigste mappene innen OSen sinn)
 
