@@ -1,11 +1,14 @@
 # Yff_Worm_projekt
-# linux mint worm shell bash script virus
+# Linux mint worm shell bash Script/ Virus
 ## Hva er målet mitt med dette prosjektet? 
 * Målet mitt for dette prosjektet er å lage et script som kopierer seg selv som ofte går under navnet worm
 * Jeg har lyt til at dette scriptet skal hovedsakli fungere på linux terminal og mac os
-* jeg har lyst til at når scriptet blir lastet ned så kjører den seg selv og
-## hva skjer når scriptet kjøres?
-1. Når scriptet kjøres skal den lage lage en GUI popup på brukerens  som skal vises i desktop og lage to copier av seg selv
+* Jeg har lyst til at når scriptet blir lastet ned så kjører den seg selv og
+## Hva skjer når scriptet kjøres?
+1. Når scriptet kjøres skal den lage en mappe med en kopi av scriptet inni seg og så kjøre kopien
+2. Når de scriptet kjøres skal de også komme en popup på brukerens GUI der det står hvor mange directories som har copiert seg selv
+### Bonus 
+1. få scriptet til å finne ut hvilken OS den er på og før den runner den første loopen (Hvorfor? for at navnet på alle de copierte directoriene har samme navn som en av de viktigste directoiene på OS system sånn at hvis brukeren prøver å slette alle mapper med navnent til "Worm shell bash Script/ Viruset" så sletter de også en av de viktigste mappene innen OSen sinn )
 
 
 
