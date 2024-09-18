@@ -1,4 +1,4 @@
-# Yff_Worm_projekt
+# Yff_Worm_prosjekt
 # Linux mint worm shell bash Script/ Virus
 ## Hva er målet mitt med dette prosjektet? 
 * Målet mitt for dette prosjektet er å lage et script som kopierer seg selv som ofte går under navnet worm
