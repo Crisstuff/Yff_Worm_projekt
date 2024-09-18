@@ -5,6 +5,6 @@
 
 
 
-##Linker:
+## Linker:
 * [How to Make a Batch File Copy Itself to STARTUP | Worm Tutorial Pt.1](https://youtu.be/stNJfwfwMJk?si=pEf5B6ODmQT83qnp)
 * [How To: Make Linux GUI / Pop Up Boxes Using Zenity... and Some Bash](https://youtu.be/Viz0t5AWYt4?si=Gwa-wJFXBkmsH6Fv)
