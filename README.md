@@ -1,4 +1,5 @@
 # Yff_Worm_prosjekt
+## Ikke run dette på din personlige PC eller 
 # Linux mint worm shell bash Script/ Virus
 ## Hva er målet mitt med dette prosjektet? 
 * Målet mitt for dette prosjektet er å lage et script som kopierer seg selv som ofte går under navnet worm
@@ -17,11 +18,11 @@
 * [How To: Make Linux GUI / Pop Up Boxes Using Zenity... and Some Bash](https://youtu.be/Viz0t5AWYt4?si=Gwa-wJFXBkmsH6Fv)
 * [ChatGPT](https://chatgpt.com)
 
-# Svakheter med koden
-1. killall bash commandoen kan enkelt stoppe filene fra og runne etter at prossensen har startet
+# styrker & Svakheter med koden
+1. "killall bash" commandoen kan enkelt stoppe filene fra og runne etter at prossensen har startet
 
 ### Fagbegreper
-- sdjnfjsn
+* "infinite loop"
 
 
 # Beskrivelse av kode
