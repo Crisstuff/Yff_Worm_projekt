@@ -17,5 +17,12 @@
 * [How To: Make Linux GUI / Pop Up Boxes Using Zenity... and Some Bash](https://youtu.be/Viz0t5AWYt4?si=Gwa-wJFXBkmsH6Fv)
 * [ChatGPT](https://chatgpt.com)
 
+# Svakheter med koden
+1. killall bash commandoen kan enkelt stoppe filene fra og runne etter at prossensen har startet
+
+### Fagbegreper
+- sdjnfjsn
+
+
 # Beskrivelse av kode
 
