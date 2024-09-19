@@ -15,7 +15,7 @@ while [ $tall -gt 0 ]; do
     cp "$0" "$new_dir/"
     
     # Show a Zenity popup with the directory number
-    zenity --info --title="Velkommen" --text="Dette er popupbox nummer $popupboxnummer"
+    zenity --info --title="Nytt Hår Produkt" --text="Dette er popupbox nummer $popupboxnummer"
     
     # Increment the popup counter
     popupboxnummer=$(($popupboxnummer + 1))
