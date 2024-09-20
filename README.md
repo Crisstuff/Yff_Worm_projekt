@@ -14,10 +14,10 @@
 
 
 ## Fagbegreper
-|kolA|kolB|
+|Fagbegrep|Beskrivelse|
 |--- |--- |
-|Fork bomb|rad2|
-|Worm virus|fsdk|
+|Fork bomb|In computing, a fork bomb (also called rabbit virus) is a denial-of-service (DoS) attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation. |
+|Worm virus|A worm is a type of malware or malicious software that can replicate rapidly and spread across devices within a network. As it spreads, a worm consumes bandwidth, overloading infected systems and making them unreliable or unavailable. Worms can also change and delete files or introduce other malware.|
 |Infinite loop|fsdk|
 
 
