@@ -24,14 +24,20 @@
 ## Linker og resurser jeg har brukt:
 * [How to Make a Batch File Copy Itself to STARTUP | Worm Tutorial Pt.1](https://youtu.be/stNJfwfwMJk?si=pEf5B6ODmQT83qnp)
 * [How To: Make Linux GUI / Pop Up Boxes Using Zenity... and Some Bash](https://youtu.be/Viz0t5AWYt4?si=Gwa-wJFXBkmsH6Fv)
+* [What is a Worm? - Cisco](https://www.cisco.com/c/en/us/products/security/what-is-a-worm.html)
+* [Fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
 * [ChatGPT](https://chatgpt.com)
 
-# styrker & Svakheter med koden
+# Styrker & Svakheter med koden
 1. "killall bash" commandoen kan enkelt stoppe filene fra og runne etter at prossensen har startet
 2. control C
+3. rm -rf ~/Desktop/[0-9]*
 
-### hva jeg har lært?
+### Hva jeg har lært?
+1. jeg
 
 
-# Beskrivelse av kode
+### Hva jeg kan prøve å implementere i fremtiden?
+* How to use threads in bash script
+
 
