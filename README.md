@@ -1,6 +1,7 @@
 # Yff_Worm_prosjekt
-## Ikke run dette på din personlige PC eller 
-# Linux mint worm shell bash Script/ Virus
+## Ikke run dette på din personlige PC
+# Linux mint Worm/Fork bomb shell bash Script/ Virus
+
 ## Hva er målet mitt med dette prosjektet? 
 * Målet mitt for dette prosjektet er å lage et script som kopierer seg selv som ofte går under navnet worm
 * Jeg har lyt til at dette scriptet skal hovedsakli fungere på linux terminal og mac os
@@ -12,6 +13,13 @@
 3. Få scriptet til å finne ut hvilken OS den er på og før den runner den første loopen (Hvorfor? for at navnet på alle de copierte directoriene har samme navn som en av de viktigste directoiene på OSens system. Sånn at hvis brukeren prøver å slette alle kopierte mapper med navnent til "Worm shell bash Script/ Viruset" så sletter de også en av de viktigste mappene innen OSen sinn)
 
 
+## Fagbegreper
+|kolA|kolB|
+|--- |--- |
+|Fork bomb|rad2|
+|Worm virus|fsdk|
+|Infinite loop|fsdk|
+
 
 ## Linker og resurser jeg har brukt:
 * [How to Make a Batch File Copy Itself to STARTUP | Worm Tutorial Pt.1](https://youtu.be/stNJfwfwMJk?si=pEf5B6ODmQT83qnp)
@@ -20,9 +28,9 @@
 
 # styrker & Svakheter med koden
 1. "killall bash" commandoen kan enkelt stoppe filene fra og runne etter at prossensen har startet
+2. control C
 
-### Fagbegreper
-* "infinite loop"
+### hva jeg har lært?
 
 
 # Beskrivelse av kode
