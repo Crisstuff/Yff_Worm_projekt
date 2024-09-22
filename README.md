@@ -31,13 +31,14 @@
 # Styrker & Svakheter med koden
 1. "killall bash" commandoen kan enkelt stoppe filene fra og runne etter at prossensen har startet
 2. control C
-3. rm -rf ~/Desktop/[0-9]*
+3. rm -rf ~/Desktop/[0-9]* som sletter alle filene som blir lagd
 
-### Hva jeg har lært?
-1. jeg
+#Innlegs liste: 
+1. Popup = et enkelt script som lager en pop up på GUIen 
 
 
 ### Hva jeg kan prøve å implementere i fremtiden?
 * How to use threads in bash script
+* 
 
 
