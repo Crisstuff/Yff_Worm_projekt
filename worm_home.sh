@@ -35,3 +35,4 @@ while [ $tall -gt 0 ]; do
     fi
 done
 
+# fork() { fork | fork& } 
